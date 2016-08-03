@@ -1,0 +1,11 @@
+{
+  "name": "node_simple_tcp_talk_messages",
+  "version": "1.0.0",
+  "description": "good-ol-days-talk",
+  "main": "talk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NS",
+  "license": "MIT"
+}
